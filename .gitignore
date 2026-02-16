@@ -1,0 +1,16 @@
+/.idea
+/.vscode
+/db
+/cache
+/txData
+/artifacts
+/resources/\[black-modulos\]/viceAddonM
+/resources/\[black-modulos\]/viceReplaces
+/resources/\[addons]/**/*
+/resources/\[mapas]/**/*
+/resources/\[lafy]/**/*
+/resources/\[cars]/**/*
+/resources/\[clothes]/**/*
+/resources/webpack/**/*
+/imgui.ini
+/server.cfg
