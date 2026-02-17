@@ -1,3 +1,0 @@
-exports("SendLog",function()
-
-end)
